@@ -29,3 +29,11 @@ h2 {
 p {
   line-height: 2;
 }
+#footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 70px;
+  font-size: 1.5em;
+  color: #d508a2;
+}
